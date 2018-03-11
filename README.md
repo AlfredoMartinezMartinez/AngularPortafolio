@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.2.
 
 ## Test Website in Git-Pages 
-https://alfredomartinezmartinez.github.io/angularportafolio/#/home
+https://alfredomartinezmartinez.github.io/AngularPortafolio/
 
 ## Development server
 
